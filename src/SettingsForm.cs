@@ -61,8 +61,8 @@ namespace BankBrowser
 
             lv = new ListView { Dock = DockStyle.Fill, View = View.Details, CheckBoxes = true, FullRowSelect = true, HideSelection = false };
             lv.Columns.Add("보안 프로그램", S(300));
-            lv.Columns.Add("종류", S(100));
-            lv.Columns.Add("현재 상태", S(260));
+            lv.Columns.Add("종류", S(160));
+            lv.Columns.Add("현재 상태", S(200));
 
             cbAuto = new CheckBox { Text = "은행 브라우저 사용 중 새로 설치된 보안 프로그램도 자동으로 관리 (은행·보험사 등 어느 사이트든, 추천)", AutoSize = true, Margin = new Padding(0, S(8), 0, S(4)) };
 

@@ -10,9 +10,11 @@
 - 은행 창을 모두 닫으면 **보안 프로그램도 자동으로 꺼집니다.**
 - 매번 다시 설치할 필요가 없어서 빠릅니다.
 
+![설정 화면](docs/settings.png)
+
 ## 다운로드
 
-오른쪽 **Releases**에서 최신 `BankBrowser.exe`를 받으세요. (파일 하나, 약 90KB)
+[**최신 버전 다운로드**](https://github.com/qkdrml11/bank-browser/releases/latest) — `BankBrowser.exe` 파일 하나(약 90KB)를 받아서 실행하면 됩니다.
 
 ## 이런 분께 추천해요
 

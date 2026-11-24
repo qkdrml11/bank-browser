@@ -82,7 +82,7 @@ namespace BankBrowser
     public static class Paths
     {
         public const string AppName = "은행 전용 브라우저";
-        public const string Version = "1.1.0";
+        public const string Version = "1.1.1";
 
         public static string InstallDir { get { return Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), "BankBrowser"); } }
         public static string InstalledExe { get { return Path.Combine(InstallDir, "BankBrowser.exe"); } }
